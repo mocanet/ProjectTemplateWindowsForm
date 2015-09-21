@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
+using Moca.Di;
+
+namespace $rootnamespace$
+{
+	static class Program
+	{
+		[STAThread]
+		static void Main()
+		{
+			MocaContainerFactory.Init();	// Moca初期化
+			Application.Run(new Form1());
+			MocaContainerFactory.Destroy();	// Moca終了
+		}
+	}
+}

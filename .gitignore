@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/packages
+/ProjectTemplateWindowsForm/bin
+/ProjectTemplateWindowsForm/obj
+*.nupkg
+*.user
+*.suo

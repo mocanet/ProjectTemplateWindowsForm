@@ -1,0 +1,12 @@
+﻿<configuration>
+	<configSections>
+		<sectionGroup name="moca">
+			<section name="settings" type="Moca.Config.MocaSectionHandler, Moca" />
+		</sectionGroup>
+	</configSections>
+	<moca>
+    <settings>
+      <transaction type="local" />
+    </settings>
+	</moca>
+</configuration>
