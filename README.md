@@ -1,6 +1,7 @@
 # ProjectTemplateWindowsForm
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8u0e0ex6h8jljiwn?svg=true)](https://ci.appveyor.com/project/miyabis/projecttemplatewindowsform)
+[![NuGet](https://img.shields.io/nuget/v/Moca.NETWindowsFormProject.svg)](https://www.nuget.org/packages/Moca.NETWindowsFormProject/)
 
 Moca.NET Project Template Windows Form
 
