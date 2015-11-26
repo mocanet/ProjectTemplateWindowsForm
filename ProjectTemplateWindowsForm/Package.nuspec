@@ -14,11 +14,14 @@
     <copyright>Copyright © 2015 MiYABiS All Rights Reserved.</copyright>
     <language>en-US</language>
     <dependencies>
-      <dependency id="MiYABiS.AppConfigTransform" version="1.0.1" />
+      <dependency id="MiYABiS.AppConfigTransform" version="2.0.0" />
       <dependency id="Moca.NETWin" version="2.0.3" />
     </dependencies>
   </metadata>
   <files>
+    <file src="content\Db\_._" target="content\Db\_._" />
+    <file src="content\Forms\_._" target="content\Forms\_._" />
+    <file src="content\Models\_._" target="content\Models\_._" />
     <file src="content\ApplicationEvents.vb" target="content\ApplicationEvents.vb" />
     <file src="content\app.config.transform" target="content\app.config.transform" />
     <file src="content\app.Hotfix.config.transform" target="content\app.Hotfix.config.transform" />
