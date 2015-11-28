@@ -51,9 +51,6 @@
     <None Include="content\ApplicationEvents.vb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="content\Db\.gitkeep" />
-    <None Include="content\Forms\.gitkeep" />
-    <None Include="content\Models\.gitkeep" />
     <None Include="content\Program.cs.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

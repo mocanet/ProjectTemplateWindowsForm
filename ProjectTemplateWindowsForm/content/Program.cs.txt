@@ -11,6 +11,8 @@ namespace $rootnamespace$
 		[STAThread]
 		static void Main()
 		{
+			// 暗号化
+			Moca.Configuration.SectionProtector.Protect()
 			MocaContainerFactory.Init();	// Moca初期化
 			Application.Run(new Form1());
 			MocaContainerFactory.Destroy();	// Moca終了
