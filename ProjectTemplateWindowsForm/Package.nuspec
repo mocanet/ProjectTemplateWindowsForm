@@ -16,7 +16,7 @@
     <dependencies>
       <dependency id="MiYABiS.AppConfigTransform" version="1.0.4" />
       <dependency id="Moca.NETWin" version="2.1.0" />
-      <dependency id="Moca.NETCore" version="2.2.0" />
+      <dependency id="Moca.NETCore" version="2.2.1" />
       <dependency id="Moca.NETControls" version="1.0.0" />
       <dependency id="Moca.NETConfiguration" version="1.0.1" />
     </dependencies>
